@@ -1,4 +1,5 @@
 <h1 align="center"> Criathon Bit by Bit </h1>
+![Logo]bit by bit - AOC.png
 
 Universidade Federal de São Paulo
 
