@@ -1,4 +1,4 @@
-# Criathon
+<h1 align="center"> Criathon </h1>
 Universidade Federal de São Paulo
 Projeto Final de Arquitetura e Organização de Computadores
 
