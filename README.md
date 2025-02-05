@@ -3,7 +3,7 @@ Universidade Federal de São Paulo
 
 Projeto Final de Arquitetura e Organização de Computadores
 
-## Alunos
+## Autores
 Bruno B. Lescher - 158.443
 
 Giovana F. Lacerda - 159499
