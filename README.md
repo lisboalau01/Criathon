@@ -1,7 +1,8 @@
 <h1 align="center"> Criathon Bit by Bit </h1>
+
 Universidade Federal de São Paulo
 
-Super Trunfo Bit by Bit - Projeto Final de Arquitetura e Organização de Computadores
+_Super Trunfo Bit by Bit_ - Projeto Final de Arquitetura e Organização de Computadores
 
 ## Autores
 Bruno B. Lescher - 158.443
