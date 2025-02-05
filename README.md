@@ -1,4 +1,4 @@
-<h1 align="center"> Criathon Bit by Bit </h1>!
+<h1 align="center"> Criathon Bit by Bit </h1>
 
 Universidade Federal de São Paulo
 
