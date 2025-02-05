@@ -1,6 +1,4 @@
 <h1 align="center"> Criathon Bit by Bit </h1>!
-[bit by bit - AOC](https://github.com/user-attachments/assets/2f23fb5b-483d-4758-8e11-b9c327b54580)
-
 
 Universidade Federal de São Paulo
 
